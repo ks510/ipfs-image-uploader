@@ -6,7 +6,8 @@ A simple application that lets users upload an image (stored using IPFS and Ethe
 - Solidity
 - React.js
 - web3
-- IPFS
+- Infuria
+- IPFS API: ipfs-http-api
 
 ## Storage
 Images are uploaded to IPFS with the reference stored in a smart contract deployed on the Ethereum blockchain. This reference allows access to the file on IPFS.
